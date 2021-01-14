@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+Yiming Tang is a Ph.D. student at the Department of Physics, Fudan University. He joined Prof. Guanghong Wei's research group in 2017. Since then, his research interest is focused on the self-assembly and co-assembly approach to frabocate nanostructures and functional nanomaterials. Recently, he has switched interest to the computational study of liquid-liquid phase separation in biosystems. He has published more than 18 papers in leading journals including Advanced Science, Advanced Materials, Angewandte Chemie, and Nature Communications.
